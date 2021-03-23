@@ -1,4 +1,4 @@
-![cover](https://cotenfrontend.pl/img/cover.png)
+![cover](./readmeImage/HeroPageV2WithBackgroundAndText.jpg)
 
 # WTF Webpack Starter Kit 
 
