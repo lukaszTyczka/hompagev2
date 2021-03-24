@@ -1,0 +1,11 @@
+.hero {
+    height: 100%;
+    width: 100%;
+    padding-left: 200px;
+    background: url('../assets/img/HeroImage.png');
+    background-position: right;
+    background-repeat: no-repeat;
+    &__title {
+        margin: 0;
+    }
+}

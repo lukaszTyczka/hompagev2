@@ -1,0 +1,9 @@
+.menu {
+    position: fixed;
+    background: $navBackgroundColor;
+    width: 200px;
+    height: 100vh;
+    &__items {
+        list-style: none;
+    }
+}
